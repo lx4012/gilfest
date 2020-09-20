@@ -1,6 +1,6 @@
-#gilfest
+# gilfest
 
-##Requeriments:
+## Requeriments:
 - windows 10
 - python 3
 - pip install pyautogui
@@ -10,7 +10,7 @@
 - party order: Skadi (support) - Arash - Waver - Edmond - Skadi (own) - anythin else
 - required essences: kaleid or mlb IE on Arash + Event Damage CE on Edmond
 
-##How to use:
+## How to use:
 - open the game in nox
 - go to gilfest and select the quest
 - once in the support list open windows powershell
